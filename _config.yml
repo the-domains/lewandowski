@@ -1,0 +1,28 @@
+name: Lewandowski Artur
+favicon: null
+layout_spectrum: 0.42590074031613767
+typography_spectrum: 0.8676799603272229
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.31150113861076534
+  lightness: 0.45606074668467045
+  saturation: 0.7517165951430798
+  rhythmicContrast: 0.4384551364928484
+purpose: []
