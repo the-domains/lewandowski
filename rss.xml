@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Lewandowski Artur]]></title>
+        <description><![CDATA[Lewandowski Artur]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 15 Mar 2016 18:12:02 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Strona główna]]></title>
+            <description><![CDATA[<article><h1>Strona główna</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/60f19057e0a2c79c026c5bec20ae2a69d4b08f76.jpg"></article>]]></description>
+            <link>undefinedstrona-glowna/index.html</link>
+            <guid isPermaLink="false">3a24a13c-3878-4413-87b8-84afc6c4942a</guid>
+            <pubDate>Tue, 15 Mar 2016 18:12:02 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
