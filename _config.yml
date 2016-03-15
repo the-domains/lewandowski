@@ -1,6 +1,6 @@
 name: Lewandowski Artur
 favicon: null
-layout_spectrum: 0.42590074031613767
+layout_spectrum: 1
 typography_spectrum: 0.8676799603272229
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-  brandStrength: 0.31150113861076534
+  brandStrength: 0.625
   lightness: 0.45606074668467045
   saturation: 0.7517165951430798
   rhythmicContrast: 0.4384551364928484
