@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Lewandowski Artur]]></title>
         <description><![CDATA[Lewandowski Artur]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/lewandowski/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 15 Mar 2016 18:12:02 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 18 Mar 2016 19:37:36 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/lewandowski/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Strona główna]]></title>
             <description><![CDATA[<article><h1>Strona główna</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/60f19057e0a2c79c026c5bec20ae2a69d4b08f76.jpg"></article>]]></description>
-            <link>undefinedstrona-glowna/index.html</link>
+            <link>https://thegrid.ai/lewandowski/strona-glowna/index.html</link>
             <guid isPermaLink="false">3a24a13c-3878-4413-87b8-84afc6c4942a</guid>
-            <pubDate>Tue, 15 Mar 2016 18:12:02 GMT</pubDate>
+            <pubDate>Fri, 18 Mar 2016 19:37:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
