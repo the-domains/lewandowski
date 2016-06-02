@@ -1,28 +1,40 @@
-name: Lewandowski Artur
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 1
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: Lewandowski Artur
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 0
+  brandStrength: 0.625
+  rhythmicContrast: 0.5
   brandColors:
     - '#1c1c1c'
     - '#ffffff'
     - '#a5a5a5'
     - '#555555'
     - '#7d7d7d'
-  brandStrength: 0.625
   lightness: 0.5
-  saturation: 0
-  rhythmicContrast: 0.5
-purpose: []
+typography_spectrum: 1
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 1
+analytics:
+  twitter: null
+  google: null
+  facebook: null
